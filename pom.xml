@@ -19,7 +19,7 @@
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
-					<warSourceDirectory>myapp/mvn</warSourceDirectory>
+	            <warSourceDirectory>myapp/mvn</warSourceDirectory>
                 </configuration>
             </plugin>
             <plugin>
@@ -31,6 +31,6 @@
                 </configuration>
             </plugin>
         </plugins>
-		<filename>mavenproject.war</filename>
+        <finalname>mavenproject.war</finalname>
     </build>
 </project>
