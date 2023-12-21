@@ -31,6 +31,5 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalname>mavenproject.war</finalname>
     </build>
 </project>
